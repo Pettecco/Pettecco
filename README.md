@@ -17,7 +17,7 @@
     </a>
   </li>
   <li style="margin-bottom: 10px;">
-    <a href="https://instagram.com/gabsereniski" target="blank" style="text-decoration: none; color: #c13584; display: flex; align-items: center;">
+    <a href="https://www.instagram.com/petteco_" target="blank" style="text-decoration: none; color: #c13584; display: flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Instagram logo" style="margin-right: 10px;" />
       Instagram
     </a>
@@ -30,7 +30,9 @@
   </li>
 </ul>
 
-<p align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pettecco&show_icons=true&hide=issues,contribs&theme=radical" alt="GitHub Stats" width="550" height="180" style="margin-bottom: 20px;" />
+<p align="center" style="margin-top: 40px; display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pettecco&show_icons=true&hide=issues,contribs&theme=radical" alt="GitHub Stats" width="550" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pettecco&layout=compact&theme=radical" alt="Most Used Languages" width="550" height="180" />
 </p>
+
+
