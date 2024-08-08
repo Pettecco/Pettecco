@@ -31,8 +31,8 @@
 </ul>
 
 <p align="center" style="margin-top: 40px; display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pettecco&show_icons=true&hide=issues,contribs&theme=radical" alt="GitHub Stats" width="550" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pettecco&layout=compact&theme=radical" alt="Most Used Languages" width="550" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pettecco&show_icons=true&hide=issues,contribs&theme=radical" alt="GitHub Stats" width="550" height="180" />
 </p>
 
 
