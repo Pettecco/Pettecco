@@ -30,7 +30,7 @@
   </li>
 </ul>
 
-<p align="center" style="margin-top: 40px; display: flex; justify-content: center; gap: 20px;">
+<p align="left" style="margin-top: 40px; display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pettecco&layout=compact&theme=radical" alt="Most Used Languages" width="550" height="180" />
 </p>
 
