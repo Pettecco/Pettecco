@@ -1,7 +1,5 @@
-<img align="right" height="200" width="200" src="gengar-pokemon.gif" alt="Gengar Pokémon" style="margin-top: 20px;" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6F35C1&vCenter=true&width=800&height=60&lines=hey+there%2C+i'm+petteco.)](https://git.io/typing-svg)
-
+<img align="right" height="200" width="200" src="gengar-pokemon.gif" alt="Gengar Pokémon" style="margin-top: 20px;" />
 <p align="left">
   <h4>My name is Petterson, but you can call me Petteco — my nickname.</h4>
   👩‍💻&nbsp;&nbsp;&nbsp;Computer engineering undergraduate student; <br>
