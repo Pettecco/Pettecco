@@ -5,7 +5,7 @@
 <p align="left">
   <h4>My name is Petterson, but you can call me Petteco — my nickname.</h4>
   👩‍💻&nbsp;&nbsp;&nbsp;Computer engineering undergraduate student; <br>
-  🌐&nbsp;&nbsp;&nbsp;Working with web development; <br>
+  🌐&nbsp;&nbsp;&nbsp;Working with software development; <br>
   🎈&nbsp;&nbsp;&nbsp;Balloon hunter; <br>
 </p>
 
